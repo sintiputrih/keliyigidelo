@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://keliyigidelo.pages.dev/sitemap.xml
